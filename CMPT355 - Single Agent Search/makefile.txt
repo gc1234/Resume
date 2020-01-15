@@ -1,0 +1,24 @@
+#macros
+CC=gcc
+CFLAGS= -std=c99 -Wall -g -O3
+all: AB
+
+AB: AB.o linked_list.o hash.o
+	$(CC) $(CFLAGS) linked_list.o AB.o hash.o -o AB 
+
+hash.o: hash.c hash.h linked_list.h
+	$(CC) $(CFLAGS) -c hash.c
+
+linked_list.o: linked_list.c linked_list.h
+	$(CC) $(CFLAGS) -c linked_list.c 
+
+AB.o: AB.h AB.c
+	$(CC) $(CFLAGS) -c AB.c 
+
+equity.tar.gz: ab.o
+	tar -zcvf ab.tar.gz *.c *.h makefile *.txt
+
+clean:
+	rm -f *.o
+
+.PHONY: clean all testing
