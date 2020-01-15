@@ -1,0 +1,275 @@
+,size,accuracy,combs,clf
+55,7,0.7929999999999999,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+56,9,0.7922,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+57,8,0.7904,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",SVM
+58,10,0.7902,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+59,7,0.7896,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+60,8,0.7894,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+61,7,0.7882,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket']",SVM
+62,7,0.7879999999999999,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",SVM
+63,9,0.7876,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+64,11,0.7874,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+65,9,0.7874,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",SVM
+66,10,0.7866,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+67,10,0.7864,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+68,10,0.7864,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",SVM
+69,6,0.785,"['NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+70,11,0.785,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+71,5,0.785,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'AgeBracket']",SVM
+72,10,0.7844,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+73,11,0.7842,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+74,12,0.7842,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+75,6,0.784,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket']",SVM
+76,9,0.7838,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+77,11,0.7834,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+164,9,0.7832749999999999,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+165,8,0.7830999999999999,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NB
+78,8,0.7829999999999999,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+166,8,0.782975,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+167,10,0.782975,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+168,7,0.78295,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NB
+169,9,0.7829,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NB
+170,8,0.782875,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+171,9,0.78285,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+172,8,0.7827,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NB
+173,7,0.782675,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",NB
+174,8,0.782525,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NB
+175,7,0.7825249999999999,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",NB
+177,7,0.7825,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+176,9,0.7825,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+179,8,0.782475,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+178,9,0.782475,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+180,7,0.7824500000000001,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'Income', 'AgeBracket']",NB
+181,6,0.782425,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",NB
+182,6,0.7824,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NB
+183,8,0.782375,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+184,7,0.78235,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Income', 'AgeBracket']",NB
+185,8,0.782325,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",NB
+186,6,0.78225,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Income', 'AgeBracket']",NB
+187,9,0.782225,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'Country', 'Income', 'AgeBracket']",NB
+188,9,0.782225,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+79,9,0.7822,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket', 'ChildrenFlag']",SVM
+189,10,0.782025,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+190,6,0.7818750000000001,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'Income', 'AgeBracket']",NB
+191,10,0.78175,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+192,10,0.7817000000000001,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NB
+80,11,0.7814,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+81,6,0.7812,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket']",SVM
+82,6,0.7812,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",SVM
+193,10,0.78095,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NB
+194,5,0.7809250000000001,"['NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",NB
+83,10,0.7808,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+195,11,0.78075,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NB
+196,5,0.780625,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'AgeBracket']",NB
+84,5,0.7806,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket']",SVM
+86,8,0.7804,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket', 'ChildrenFlag']",SVM
+85,8,0.7804,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",SVM
+87,7,0.78,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket', 'ChildrenFlag']",SVM
+88,8,0.7798,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket']",SVM
+197,5,0.7798,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Married', 'AgeBracket', 'ChildrenFlag']",NB
+198,5,0.779775,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'ChildrenFlag']",NB
+199,4,0.7796000000000001,"['NumberChildrenAtHome', 'Married', 'Country', 'AgeBracket']",NB
+200,4,0.7796,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Married', 'AgeBracket']",NB
+202,4,0.779575,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Married', 'AgeBracket']",NB
+201,4,0.779575,"['NumberChildrenAtHome', 'AreaCode', 'Married', 'AgeBracket']",NB
+203,3,0.77935,"['NumberChildrenAtHome', 'Married', 'AgeBracket']",NB
+89,7,0.7786,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket']",SVM
+204,11,0.777825,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NB
+205,11,0.777825,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NB
+90,5,0.7778,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType']",SVM
+91,4,0.7776,"['NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket']",SVM
+206,3,0.7771,"['NumberChildrenAtHome', 'Sex', 'AgeBracket']",NB
+207,11,0.77695,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NB
+208,12,0.77685,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NB
+209,2,0.776625,"['NumberChildrenAtHome', 'Married']",NB
+210,3,0.776625,"['NumberChildrenAtHome', 'AreaCode', 'Married']",NB
+211,3,0.776625,"['NumberChildrenAtHome', 'Married', 'ChildrenFlag']",NB
+93,4,0.7759999999999999,"['NumberChildrenAtHome', 'Married', 'EducationType', 'AgeBracket']",SVM
+92,3,0.7759999999999999,"['NumberChildrenAtHome', 'Sex', 'Married']",SVM
+212,2,0.77585,"['NumberChildrenAtHome', 'Sex']",NB
+95,4,0.7756,"['NumberChildrenAtHome', 'Married', 'JobType', 'AgeBracket']",SVM
+94,4,0.7756,"['NumberChildrenAtHome', 'Married', 'Income', 'AgeBracket']",SVM
+110,11,0.7754,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+219,11,0.7748,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+96,5,0.7746,"['NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket']",SVM
+111,9,0.7734,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+112,9,0.773,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+97,9,0.772,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",SVM
+113,9,0.7716,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NN
+98,8,0.7712,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket', 'ChildrenFlag']",SVM
+114,10,0.7712,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NN
+220,8,0.7709999999999999,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+115,11,0.7702,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+116,12,0.77,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+221,7,0.7698,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",RF
+117,7,0.7696,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Income', 'AgeBracket']",NN
+222,10,0.7696,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",RF
+223,6,0.7694,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",RF
+224,11,0.7692,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",RF
+225,9,0.769,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",RF
+0,7,0.769,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",DT
+226,10,0.7688,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+118,10,0.7688,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NN
+227,6,0.7686,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket']",RF
+213,2,0.7680750000000001,"['NumberChildrenAtHome', 'Income']",NB
+119,9,0.768,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NN
+228,10,0.7678,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+1,7,0.7676,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+229,10,0.7674,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",RF
+230,12,0.7674,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+120,7,0.7672,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",NN
+121,11,0.767,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+122,9,0.767,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NN
+231,7,0.7668,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+232,9,0.7668,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+233,11,0.7666,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+2,9,0.7666,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",DT
+124,8,0.7666,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",NN
+123,8,0.7666,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NN
+125,10,0.7664,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+3,8,0.7664,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'Country', 'AgeBracket', 'ChildrenFlag']",DT
+4,7,0.7662,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+234,8,0.7659999999999999,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",RF
+126,10,0.7659999999999999,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+235,6,0.7658,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'Income', 'AgeBracket']",RF
+5,8,0.7656,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",DT
+236,5,0.7656,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'AgeBracket']",RF
+128,9,0.7654,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NN
+127,7,0.7654,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket']",NN
+129,10,0.7654,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+130,9,0.7652,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NN
+7,5,0.7652,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType']",DT
+6,7,0.7652,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+237,8,0.765,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'Country', 'AgeBracket', 'ChildrenFlag']",RF
+132,9,0.765,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NN
+131,11,0.765,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+238,8,0.765,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+8,6,0.765,"['NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+133,6,0.7648,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",NN
+239,9,0.7648,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",RF
+9,11,0.7646,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+135,10,0.7644,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+134,7,0.7644,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Country', 'AgeBracket', 'ChildrenFlag']",NN
+214,2,0.7643,"['NumberChildrenAtHome', 'EducationType']",NB
+240,11,0.7642,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+137,4,0.7642,"['NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket']",NN
+10,6,0.7642,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",DT
+136,11,0.7642,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",NN
+241,9,0.7638,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",RF
+242,7,0.7638,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",RF
+11,11,0.7636,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+243,5,0.7636,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType']",RF
+138,7,0.7636,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'Income', 'AgeBracket']",NN
+12,10,0.763,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",DT
+244,7,0.7628,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+139,6,0.7628,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'Income', 'AgeBracket']",NN
+140,6,0.7628,"['NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+13,12,0.7626,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+143,8,0.7624,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+245,7,0.7624,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",RF
+142,4,0.7624,"['NumberChildrenAtHome', 'Married', 'JobType', 'AgeBracket']",NN
+141,6,0.7624,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",NN
+144,8,0.762,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",NN
+14,8,0.762,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+145,5,0.7616,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket']",NN
+15,11,0.7616,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+146,11,0.7616,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",NN
+147,5,0.7609999999999999,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'AgeBracket']",NN
+246,8,0.7609999999999999,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",RF
+16,7,0.7609999999999999,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",DT
+18,6,0.7606,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket']",DT
+17,10,0.7606,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+247,6,0.7604,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",RF
+148,4,0.7604,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married']",NN
+19,5,0.76,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket']",DT
+20,7,0.76,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",DT
+248,6,0.7598,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",RF
+249,6,0.7596,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",RF
+21,5,0.7596,"['NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",DT
+22,8,0.7592,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",DT
+149,5,0.7592,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket']",NN
+23,5,0.7586,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType']",DT
+99,2,0.7584,"['NumberChildrenAtHome', 'AgeBracket']",SVM
+25,6,0.7582,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",DT
+24,10,0.7582,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+250,5,0.7578,"['NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",RF
+26,6,0.7578,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket', 'ChildrenFlag']",DT
+150,5,0.7576,"['NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket']",NN
+251,5,0.7574,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'JobType']",RF
+215,1,0.7573000000000001,['NumberChildrenAtHome'],NB
+101,1,0.7568,['NumberChildrenAtHome'],SVM
+100,2,0.7568,"['NumberChildrenAtHome', 'JobType']",SVM
+252,6,0.7568,"['NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+27,9,0.7566,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'AgeBracket', 'ChildrenFlag']",DT
+28,6,0.7564,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'Income', 'AgeBracket']",DT
+253,6,0.7564,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",RF
+29,6,0.7562,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'AgeBracket', 'ChildrenFlag']",DT
+30,9,0.7548,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+31,4,0.7546,"['NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket']",DT
+32,5,0.7544,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket']",DT
+254,7,0.7544,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket', 'ChildrenFlag']",RF
+102,2,0.7538,"['NumberChildrenAtHome', 'Married']",SVM
+33,5,0.7538,"['NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket']",DT
+34,9,0.7536,"['NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",DT
+255,5,0.7536,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'AgeBracket']",RF
+35,11,0.7534,"['HomeOwnerFlag', 'NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",DT
+151,3,0.7532,"['NumberChildrenAtHome', 'Sex', 'Married']",NN
+256,5,0.753,"['NumberCarsOwned', 'NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket']",RF
+257,4,0.7528,"['NumberChildrenAtHome', 'Sex', 'Married', 'AgeBracket']",RF
+258,2,0.7524,"['NumberChildrenAtHome', 'AgeBracket']",RF
+152,4,0.7524,"['NumberChildrenAtHome', 'AreaCode', 'Married', 'AgeBracket']",NN
+103,3,0.7522,"['NumberChildrenAtHome', 'Married', 'EducationType']",SVM
+259,5,0.7518,"['NumberChildrenAtHome', 'Sex', 'Married', 'Income', 'AgeBracket']",RF
+37,5,0.7498,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'AgeBracket']",DT
+36,6,0.7498,"['NumberChildrenAtHome', 'Sex', 'Married', 'EducationType', 'AgeBracket', 'ChildrenFlag']",DT
+38,8,0.748,"['NumberChildrenAtHome', 'Sex', 'Married', 'JobType', 'EducationType', 'Income', 'AgeBracket', 'ChildrenFlag']",DT
+39,10,0.747,"['NumberCarsOwned', 'NumberChildrenAtHome', 'AreaCode', 'Sex', 'Married', 'JobType', 'EducationType', 'Country', 'AgeBracket', 'ChildrenFlag']",DT
+154,3,0.7428,"['NumberChildrenAtHome', 'Married', 'ChildrenFlag']",NN
+153,3,0.7428,"['NumberChildrenAtHome', 'Married', 'AgeBracket']",NN
+261,4,0.7424,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married']",RF
+260,3,0.7424,"['NumberChildrenAtHome', 'Sex', 'Married']",RF
+40,3,0.7424,"['NumberChildrenAtHome', 'Sex', 'Married']",DT
+41,4,0.7424,"['HomeOwnerFlag', 'NumberChildrenAtHome', 'Sex', 'Married']",DT
+262,3,0.7416,"['NumberChildrenAtHome', 'Married', 'EducationType']",RF
+42,2,0.7414,"['NumberChildrenAtHome', 'Sex']",DT
+263,2,0.7414,"['NumberChildrenAtHome', 'Sex']",RF
+155,3,0.7408,"['NumberChildrenAtHome', 'Married', 'Income']",NN
+43,3,0.7408,"['NumberChildrenAtHome', 'Married', 'EducationType']",DT
+44,4,0.7396,"['NumberChildrenAtHome', 'Married', 'EducationType', 'AgeBracket']",DT
+264,4,0.7396,"['NumberChildrenAtHome', 'Married', 'Income', 'AgeBracket']",RF
+265,3,0.7388,"['NumberChildrenAtHome', 'Married', 'Income']",RF
+266,4,0.7386,"['NumberChildrenAtHome', 'Married', 'EducationType', 'AgeBracket']",RF
+45,3,0.7378,"['NumberChildrenAtHome', 'Married', 'Income']",DT
+46,4,0.7368,"['NumberChildrenAtHome', 'Married', 'Income', 'AgeBracket']",DT
+267,3,0.7344,"['NumberChildrenAtHome', 'Married', 'AgeBracket']",RF
+156,1,0.7308,['NumberChildrenAtHome'],NN
+157,2,0.7304,"['NumberChildrenAtHome', 'AgeBracket']",NN
+47,2,0.7304,"['NumberChildrenAtHome', 'AgeBracket']",DT
+48,3,0.7296,"['NumberChildrenAtHome', 'Married', 'AgeBracket']",DT
+158,2,0.7238,"['NumberChildrenAtHome', 'Income']",NN
+159,2,0.722,"['NumberChildrenAtHome', 'Sex']",NN
+104,2,0.722,"['NumberChildrenAtHome', 'Sex']",SVM
+160,2,0.7218,"['NumberChildrenAtHome', 'JobType']",NN
+268,2,0.7216,"['NumberChildrenAtHome', 'Married']",RF
+49,2,0.7216,"['NumberChildrenAtHome', 'Married']",DT
+269,2,0.7126,"['NumberChildrenAtHome', 'EducationType']",RF
+270,1,0.7054,['NumberChildrenAtHome'],RF
+216,1,0.6917,['NumberCarsOwned'],NB
+105,3,0.6904,"['NumberChildrenAtHome', 'Married', 'Income']",SVM
+106,3,0.6842,"['NumberChildrenAtHome', 'Married', 'AgeBracket']",SVM
+217,1,0.67255,['JobType'],NB
+218,1,0.67255,['Married'],NB
+271,1,0.6662,['NumberCarsOwned'],RF
+272,1,0.6662,['Income'],RF
+109,1,0.6662,['EducationType'],SVM
+161,1,0.6662,['Married'],NN
+162,1,0.6662,['Income'],NN
+163,1,0.6662,['NumberCarsOwned'],NN
+108,1,0.6662,['Income'],SVM
+107,1,0.6662,['NumberCarsOwned'],SVM
+54,1,0.6662,['HomeOwnerFlag'],DT
+53,1,0.6662,['NumberChildrenAtHome'],DT
+52,2,0.6662,"['NumberChildrenAtHome', 'EducationType']",DT
+51,1,0.6662,['Income'],DT
+50,1,0.6662,['NumberCarsOwned'],DT
+273,1,0.6662,['HomeOwnerFlag'],RF
